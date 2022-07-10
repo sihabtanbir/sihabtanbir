@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Tanbir Ahmmed Sihab
 #### I am web developer
-![I am web developer]
+
 
 
 I`m a web designer and web developer with more than 3 years of well-rounded experience. My skills include HTML, CSS, PHP, MySQL , JavaScript, jQuery, Bootstrap, ReactJs etc. I have experience with WordPress customize and Laravel MVC framework.
